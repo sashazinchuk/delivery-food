@@ -118,6 +118,7 @@ body {
   /*max-width: 384px;*/
   /*height: 250px;*/
   object-fit: cover;
+  width: 100%;
 }
 .card-text {
   padding: 20px 35px 23px;
